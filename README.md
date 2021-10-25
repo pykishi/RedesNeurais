@@ -1,3 +1,10 @@
+## GRUPO 2
+Arthur Salvador Rocha<BR>
+Guilherme Nakano Nalin<BR>
+Lucas Gabriel Mendes de Oliveira<BR>
+Patricia Yoshie Kishi Bueno<BR>
+Paulo Gustavo Maciel Lopes
+
 # RAMster Trade
 
 ### Descrição
